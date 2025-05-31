@@ -1,0 +1,7 @@
+functionCallEx.py
+pyproject.toml
+function_calling_demo.egg-info/PKG-INFO
+function_calling_demo.egg-info/SOURCES.txt
+function_calling_demo.egg-info/dependency_links.txt
+function_calling_demo.egg-info/requires.txt
+function_calling_demo.egg-info/top_level.txt
